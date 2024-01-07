@@ -27,3 +27,8 @@ print(name+mesage)
 print(f'Илон {mesage}')
 a=2>4
 print(a)
+mesage='яблоки'=='Бананы'
+print(mesage)
+game='dota'
+proof=game=='fifa'
+print(proof)
