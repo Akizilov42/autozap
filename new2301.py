@@ -1,0 +1,12 @@
+nums=[1,5,10,11,15,32,89,5,6,9,8,7]
+print(nums)
+print(len(nums))
+print(nums[2:3+1])
+print(nums[2:4+1])
+print(nums[::-1])
+print(max(nums))
+print(list(reversed(nums)))
+print(sorted(nums))
+print(sorted(nums, reverse=True))
+num=list(range(1,15))
+print(num)
